@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://3.23.101.160:8181/mylandmarktech/repository/Tesla_Web_fe_Releases/</url>
+	      <url>http://18.116.19.4:8181/mylandmarktech/repository/Tesla_Web_fe_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>VK Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.23.101.160:8181/mylandmarktech/repository/Tesla_fe_Snapshot/</url>
+	      <url>http://18.116.19.4:8181/mylandmarktech/repository/Tesla_fe_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
